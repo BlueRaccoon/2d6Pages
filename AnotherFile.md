@@ -11,3 +11,5 @@ This is an entirely new file
 ## Another Addition is Made
 
 It has been modified again
+
+- Also, I cloned this file into a **Third** file
