@@ -10,3 +10,11 @@ Additional Text Appears Here
 ## This Page has been Edited
 
 This page has now been edited a second time
+
+
+# Version 6.x - "Dieheart"
+> *Played with 2d6*
+
+### Magic
+- [Dash](/VS_Dash.html)
+- [Obscura](/VS_Obscura.html)
